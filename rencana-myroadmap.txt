@@ -4,5 +4,6 @@ Membuat simpel web
         - buat dengan simple. 
             - Ada Navbar  
             - Ada Hero Section 
-            - Ada contact Section 
+            - Ada contact Section:
+              - pakai card 
             - Ada fotter
