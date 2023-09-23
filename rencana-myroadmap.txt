@@ -1,3 +1,6 @@
 Membuat simpel web  
   bahasa pemograman :
-    - HTML & CSS 
+    - HTML & CSS :
+        - buat dengan simple. 
+            - Ada Navbar  
+            - Ada Hero Section 
