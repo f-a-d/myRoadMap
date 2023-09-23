@@ -4,4 +4,3 @@ A. FrontEnd
   2. Bootstrap 
   3. Tailwind
 B. BackEnd
-  1. NodeJs
