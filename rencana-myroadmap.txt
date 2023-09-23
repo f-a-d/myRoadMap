@@ -2,5 +2,8 @@ Membuat simpel web
   bahasa pemograman :
     - HTML & CSS :
         - buat dengan simple. 
-            - Ada Navbar  
-            - Ada Hero Section 
+            - Ada Hero Section
+            - Ada Contact Section:
+              - card :
+                - instagram 
+                - github
